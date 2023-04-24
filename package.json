@@ -15,6 +15,7 @@
   "bugs": {
     "url": "https://github.com/JangRuBin2/dotEnv_Practice/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/JangRuBin2/dotEnv_Practice#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
