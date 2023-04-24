@@ -1,0 +1,23 @@
+{
+  "name": "dotenv_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbConfigure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JangRuBin2/dotEnv_Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JangRuBin2/dotEnv_Practice/issues"
+  },
+  "homepage": "https://github.com/JangRuBin2/dotEnv_Practice#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mysql2": "^3.2.3"
+  }
+}
